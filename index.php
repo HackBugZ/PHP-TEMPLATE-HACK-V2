@@ -21,7 +21,7 @@ $REPLACE = [
 $VARMSG	= '<br>PHP MESSAGE';
   	
 foreach($FILE as $GET_FILE){
-	array_push($FILEBLOCK, file_get_contents($GET_FILE));
+  array_push($FILEBLOCK, file_get_contents($GET_FILE));
 }	
 $FILEBLOCK	= implode($FILEBLOCK);
 	
