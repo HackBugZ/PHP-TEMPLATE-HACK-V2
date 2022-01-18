@@ -1,3 +1,4 @@
+<?php if((!defined("z"))){exit;}	?>
 <!DOCTYPE HTML>
 <html id="html">
 <head id="head">
