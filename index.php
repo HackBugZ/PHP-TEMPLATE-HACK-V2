@@ -1,5 +1,7 @@
 <?php
 
+if((!defined('z'))){ define('z','0');  }
+
 $FILE		= array();
 $FILEBLOCK	= array();
 $REPLACE	= array();
